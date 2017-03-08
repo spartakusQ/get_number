@@ -1,1 +1,1 @@
-get_number
+This is test rand game.
